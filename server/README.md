@@ -1,3 +1,10 @@
+https://github.com/nenuadrian/BrowserQuest
+
+
+npm install
+node server/js/main.js
+
+
 BrowserQuest server documentation
 =================================
 
